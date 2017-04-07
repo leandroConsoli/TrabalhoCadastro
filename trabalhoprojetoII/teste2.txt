@@ -1,3 +1,13 @@
+<<<<<<< .mine
 ola mundo
 
 djghydgquhs
+
+
+=======
+ola mundo
+
+
+
+teste ola mundo 
+>>>>>>> .theirs
